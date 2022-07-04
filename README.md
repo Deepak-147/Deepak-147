@@ -5,7 +5,7 @@
 <!--Add your web profile link here below-->
 # 👋 Hello, I'm [Deepak Laxkar!]()
 
-👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on LeetCode and GeeksForGeeks 🚀<br><br>👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement<br><br>✉️[Let's connect](mailto:deepaklaxkar11@gmail.com)
+👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on LeetCode and GeeksForGeeks 🚀<br>👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement<br>✉️[Let's connect](mailto:deepaklaxkar11@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepaklaxkar11) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@deepaklaxkar11) 
@@ -18,5 +18,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-147&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-147&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Deepak-147&icon=5&color=1)](https://visitcount.itsvg.in)
