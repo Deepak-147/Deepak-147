@@ -5,7 +5,7 @@
 <!--Add your web profile link here below-->
 # 👋 Hello, I'm [Deepak Laxkar!]()
 
-👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on LeetCode and GeeksForGeeks 🚀<br>👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement<br>✉️[Let's connect](mailto:deepaklaxkar11@gmail.com)
+👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀<br>👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement<br>✉️[Let's connect](mailto:deepaklaxkar11@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepaklaxkar11) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@deepaklaxkar11) 
