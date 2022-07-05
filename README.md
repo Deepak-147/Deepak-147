@@ -5,14 +5,21 @@
 <!--Add your web profile link here below-->
 # 👋 Hello, I'm [Deepak Laxkar!]()
 
-👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀<br>👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement<br>✉️[Let's connect](mailto:deepaklaxkar11@gmail.com)
+👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀<br>👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement
 
+<br><br>
+
+<a href="mailto:deepaklaxkar11@gmail.com">
+  <img align="left" alt="Deepak's Gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-1024.png" />
+</a>
 <a href="https://linkedin.com/in/deepaklaxkar11">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />
+  <img align="left" alt="Deepak's LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />
 </a>
 <a href="https://medium.com/@deepaklaxkar11">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-1024.png" />
 </a>
+
+<br><br>
 
 <!--
 ## 🌐 Social Profile:
