@@ -5,7 +5,14 @@
 <!--Add your web profile link here below-->
 # 👋 Hello, I'm [Deepak Laxkar!]()
 
-👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀
+👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on 
+<a href="https://leetcode.com/ldeepak11/">
+  <img align="left" alt="Deepak's LeetCode" width="22px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
+</a> 
+and 
+<a href="https://auth.geeksforgeeks.org/user/ldeepak11">
+  <img align="left" alt="Deepak's GFG" width="22px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />
+</a> 🚀
 <br>
 👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend development
 <br>
