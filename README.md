@@ -5,7 +5,7 @@
 <!--Add your web profile link here below-->
 <!-- # 👋 Hello, I'm [Deepak Laxkar!]() -->
 
-<h1> Hello, I'm [Deepak Laxkar!]() <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> </h1>
+<h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38">, I'm [Deepak Laxkar!]() </h1>
 
 👨🏻‍💻 I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀
 <br>
