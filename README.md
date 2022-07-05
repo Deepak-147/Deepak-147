@@ -5,7 +5,10 @@
 <!--Add your web profile link here below-->
 # 👋 Hello, I'm [Deepak Laxkar!]()
 
-👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀<br>👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement
+👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀
+<br>
+👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement
+<br>
 
 <a href="mailto:deepaklaxkar11@gmail.com">
   <img align="left" alt="Deepak's Gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-1024.png" />
@@ -31,5 +34,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Deepak-147&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-147&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-147&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+#
 
 [![](https://visitcount.itsvg.in/api?id=Deepak-147&icon=5&color=1)](https://visitcount.itsvg.in)
