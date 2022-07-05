@@ -7,7 +7,7 @@
 
 👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀
 <br>
-👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement
+👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend development
 <br>
 
 <a href="mailto:deepaklaxkar11@gmail.com">
