@@ -7,8 +7,6 @@
 
 👨🏻‍💻I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀<br>👨🏻‍💻I'm currently learning full-stack web development and interested in exploring new opportunities in backend developement
 
-<br>
-
 <a href="mailto:deepaklaxkar11@gmail.com">
   <img align="left" alt="Deepak's Gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-1024.png" />
 </a>
@@ -19,7 +17,7 @@
   <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-1024.png" />
 </a>
 
-<br>
+<br><br>
 
 <!--
 ## 🌐 Social Profile:
