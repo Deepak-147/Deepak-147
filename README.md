@@ -3,7 +3,9 @@
 -->
 
 <!--Add your web profile link here below-->
-# 👋 Hello, I'm [Deepak Laxkar!]()
+<!-- # 👋 Hello, I'm [Deepak Laxkar!]() -->
+
+<h1> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> </h1>
 
 👨🏻‍💻 I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀
 <br>
