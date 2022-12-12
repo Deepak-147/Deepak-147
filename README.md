@@ -9,7 +9,7 @@
 
 <!-- 👨🏻‍💻 I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀 -->
 <br>
-👨🏻‍💻 I'm learning full-stack web development and interested in exploring new opportunities in backend development
+👨🏻‍💻 I'm a front end mobile application developer and currently exploring backend development en-route to become a full stack web developer. Would love to connect if you have any opportunities.
 <br>
 <br>
 <a href="mailto:deepaklaxkar11@gmail.com">
@@ -18,9 +18,9 @@
 <a href="https://linkedin.com/in/deepaklaxkar11">
   <img align="left" alt="Deepak's LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" />
 </a>
-<a href="https://medium.com/@deepaklaxkar11">
+<!-- <a href="https://medium.com/@deepaklaxkar11">
   <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-1024.png" />
-</a>
+</a> -->
 <br><br>
 
 ## 🛠 Tech Stack:
