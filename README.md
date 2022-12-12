@@ -11,7 +11,7 @@
 <br>
 👨🏻‍💻 I'm learning full-stack web development and interested in exploring new opportunities in backend development
 <br>
-
+<br>
 <a href="mailto:deepaklaxkar11@gmail.com">
   <img align="left" alt="Deepak's Gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-1024.png" />
 </a>
