@@ -9,7 +9,7 @@
 
 <!-- 👨🏻‍💻 I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀 -->
 <br>
-👨🏻‍💻 I'm a front-end mobile application developer. Exploring and learning back-end development and aspire to become a full stack web developer. Would love to connect if you have any opportunities.
+👨🏻‍💻 I'm a front-end mobile application developer. Currently exploring back-end development and aspire to become a full stack web developer. Would love to connect if you have any opportunities.
 <br>
 <br>
 <a href="mailto:deepaklaxkar11@gmail.com">
