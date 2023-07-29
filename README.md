@@ -10,9 +10,15 @@
 <!-- 👨🏻‍💻 I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀 -->
 <br>
 👨🏻‍💻 I’m a Software Engineer with a passion for lifelong learning, problem solving and self-improvement.
+
+
 With over 4 years of experience building applications 
 using various technologies like React Native, React.js, Node.js, Express.js, MySQL, and Java, I have a strong foundation in front-end and back-end development.
+
+
 My preferred general purpose coding language is Java, and I enjoy writing clean, maintainable code that scales. Recently, I’ve been exploring back-end technologies like Spring Boot, MongoDB, Docker, Kubernetes and Google Cloud Platform to expand my skill set and become a full-stack developer.
+
+
 If you’re interested in connecting or exploring potential collaborations, please don’t hesitate to reach out. I’m always open to new opportunities to learn and grow from other talented individuals in the industry.
 <br>
 <br>
