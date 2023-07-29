@@ -11,7 +11,7 @@
 <br>
 👨🏻‍💻 I’m a Software Engineer with a passion for lifelong learning, problem solving and self-improvement.
 
-<br>
+</br>
 With over 4 years of experience building applications 
 using various technologies like React Native, React.js, Node.js, Express.js, MySQL, and Java, I have a strong foundation in front-end and back-end development.
 
