@@ -25,9 +25,9 @@ If you’re interested in connecting or exploring potential collaborations, plea
 <a href="https://linkedin.com/in/deepaklaxkar11">
   <img align="left" alt="Deepak's LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" />
 </a>
-<!-- <a href="https://medium.com/@deepaklaxkar11">
+<a href="https://medium.com/@deepaklaxkar11">
   <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-1024.png" />
-</a> -->
+</a>
 <br><br>
 
 ## 🛠 Tech Stack:
