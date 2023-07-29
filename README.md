@@ -10,8 +10,7 @@
 <!-- 👨🏻‍💻 I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀 -->
 <br>
 👨🏻‍💻 I’m a Software Engineer with a passion for lifelong learning, problem solving and self-improvement.
-
-</br>
+<br/>
 With over 4 years of experience building applications 
 using various technologies like React Native, React.js, Node.js, Express.js, MySQL, and Java, I have a strong foundation in front-end and back-end development.
 
