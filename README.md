@@ -12,13 +12,11 @@
 <!-- 👨🏻‍💻 I'm currently working on improving my problem-solving skills by actively solving problems on [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11) 🚀 -->
 <br>
 
-👨🏻‍💻 I’m a Software Engineer with a passion for lifelong learning, problem solving and self-improvement.
+👨🏻‍💻 I'm a software engineer with over 5 years of experience in Full Stack web application development.
 
-With over 5 years of experience building applications using various technologies like React.js, Spring Boot, MySQL and MongoDB, I have a strong foundation in front-end and back-end development.
+During my Software Engineering career, I have worked with multiple programming languages, libraries and frameworks such as Java, JavaScript, React, React Native, Spring Boot, MySQL and MongoDB
 
-My preferred general-purpose programming language is Java, and I enjoy writing clean and maintainable code. Recently, I’ve been exploring technologies like Docker, Kubernetes and GCP to further expand my skill set.
-
-If you’re interested in connecting or exploring potential collaborations, please don’t hesitate to reach out. I’m always open to new opportunities to learn and grow from other talented individuals in the industry.
+I am committed to continuous learning and improvement, and I am always eager to explore new technologies and frameworks.
 
 Coding Profiles:
 [LeetCode](https://leetcode.com/ldeepak11/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ldeepak11)
